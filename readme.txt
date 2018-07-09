@@ -2,4 +2,5 @@ git is a b xxx
 github is a b xxx
 
 lena is beutiful
-SKT cant win
+
+RNG 牛B
