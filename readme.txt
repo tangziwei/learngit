@@ -1,2 +1,2 @@
-git is xxx
-github is xxx
+git is a xxx
+github is a xxx
